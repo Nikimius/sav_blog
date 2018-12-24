@@ -4,22 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/app/views/posts/_form.html.erb" line="34" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ee95e20-b308-40a3-a130-36e03870d3ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/posts.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/tags.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/_disqus.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/_post.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/posts/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/tags/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/activerecord.ru.yml" afterDir="false" />
-    </list>
+    <list default="true" id="3ee95e20-b308-40a3-a130-36e03870d3ee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -352,12 +337,12 @@
       <workItem from="1545311736062" duration="6731000" />
       <workItem from="1545320881679" duration="1249000" />
       <workItem from="1545322474416" duration="1808000" />
-      <workItem from="1545574264327" duration="21242000" />
+      <workItem from="1545574264327" duration="21599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46565000" />
+    <option name="totallyTimeSpent" value="46922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
