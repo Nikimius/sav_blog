@@ -1,0 +1,15 @@
+
+ru:
+  activerecord:
+    models:
+      post: 'Cтатья'
+    attributes:
+      post:
+        title: 'Название'
+        summary: 'Краткая статья'
+        body: 'Содержание'
+    errors:
+      messages:
+        blank: 'не может быть пустым'
+
+
